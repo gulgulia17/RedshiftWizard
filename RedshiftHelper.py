@@ -117,7 +117,7 @@ class RedshiftHelper:
         Execute the query with conditions and return the results as dictionaries.
         """
         query = self.sql(table_name)
-        return self._fetch_results()
+        return self._fetch_results(query)
 
     def first(self, table_name):
         """
