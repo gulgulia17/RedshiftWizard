@@ -100,6 +100,6 @@ pip install redshift_connector
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 You can replace the placeholders with your actual Redshift connection details and table names. Additionally, make sure to include the necessary library installation command at the end of the README if it's not already installed.
